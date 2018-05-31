@@ -4,7 +4,7 @@ header-img: img/home-bg.png
 email: jaclynchall@gmail.com
 copyright_name: catelyou
 description: > # this means to ignore newlines until "baseurl:"
-  Musings of a newly-minted, future award-winning, software engineer.
+  Musings of a newly-minted, future award-winning software engineer.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  catelyou
