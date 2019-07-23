@@ -1,15 +1,14 @@
 # Site settings
+author: Jackie Hall
 title: Jackie is finally coding.
 header-img: img/home-bg.png
 email: jaclynchall@gmail.com
-copyright_name: catelyou
+copyright_name: Jackie Hall
 description: > # this means to ignore newlines until "baseurl:"
   Musings of a newly-minted, future award-winning software engineer.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  catelyou
-learn_profile: catelyou
-email_username: jaclynchall@gmail.com
 
 # Build settings
 markdown: kramdown
