@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Learning How to Learn, Again"
-date:       2018-07-05 17:13:26 +0000
+date:       2018-07-05 13:13:27 -0400
 permalink:  learning_how_to_learn_again
 ---
 
